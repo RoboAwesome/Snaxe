@@ -1,0 +1,16 @@
+Log
+-------------
+
+//Listed in order of completion
+
+Rendering, Staging and Animation/Movement                               - 1 Hour
+Reading Input, Snake-Like Movement & frame timer                        - 1 Hour
+Testing various others methods of movement, rendering,                  - 2 Hours
+laying out program structure
+Apple class, collision detection between snake & apple                  - 1 Hour
+Creating boundary singleton, out of bounds detection and player death   - 30 Minutes
+Snake growth function                                                   - 30 Minutes
+Snake self collision checks                                             - 10 Minutes
+Converting input processing into generic Command pattern                - 10 Minutes
+for multiple key mappings
+Code Review & Comments                                                  - 30 Minutes

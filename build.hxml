@@ -1,0 +1,6 @@
+#Build Script for game!
+
+-main Main
+-lib random
+-swf main-flash.swf
+-swf-version 15
